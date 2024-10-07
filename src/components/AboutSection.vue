@@ -4,6 +4,18 @@
 <template>
   <div class="min-h-screen bg-zinc-900 py-10 px-4">
     <div class="max-w-4xl mx-auto p-8">
+
+      <section class="mt-12">
+        <h2 class="text-3xl font-semibold text-white">Hobbies</h2>
+        <p class="text-white mt-2">Outside of coding, here are a few things I enjoy doing:</p>
+        <ul class="list-disc pl-6 mt-4 space-y-2 text-white">
+          <li>Photography – I tend to take photos of the city/sunsets</li>
+          <li>Daily – I love sleeping & watching k drama</li>
+          <li>Reading – I enjoy reading manhwa & manhua </li>
+          <li>Gaming – I enjoy playing strategy and adventure games</li>
+        </ul>
+      </section>
+
       <section class="mt-12">
         <h2 class="text-3xl font-semibold text-white">Skills</h2>
         <p class="text-white mt-2">Here are some of the skills I have developed over the years:</p>
@@ -30,17 +42,6 @@
           </div>
           
         </div>
-      </section>
-
-      <section class="mt-12">
-        <h2 class="text-3xl font-semibold text-white">Hobbies</h2>
-        <p class="text-white mt-2">Outside of coding, here are a few things I enjoy doing:</p>
-        <ul class="list-disc pl-6 mt-4 space-y-2 text-white">
-          <li>Photography – I tend to take photos of the city/sunsets</li>
-          <li>Daily – I love sleeping & watching k drama</li>
-          <li>Reading – I enjoy reading manhwa & manhua </li>
-          <li>Gaming – I enjoy playing strategy and adventure games</li>
-        </ul>
       </section>
 
       <section class="mt-12">
