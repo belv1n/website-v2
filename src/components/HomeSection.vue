@@ -35,8 +35,8 @@
         </div>
 
         <div class="w-full max-w-md mt-12">
-            <a href="/" disabled="disabled" class="bg-white text-gray-900 hover:bg-gray-100 py-2 px-4 rounded-lg font-semibold transition-colors w-full md:w-auto block text-center">
-            Welcome!!
+            <a href="#intro" disabled="disabled" class="bg-white text-gray-900 hover:bg-gray-100 py-2 px-4 rounded-lg font-semibold transition-colors w-full md:w-auto block text-center">
+            Scroll Down!!
             </a>
         </div>
       </div>
