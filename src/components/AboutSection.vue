@@ -10,18 +10,18 @@
         
         <div class="mt-6 grid grid-cols-1 md:grid-cols-2 gap-6">
           <div class="p-6 bg-gray-100 rounded-lg shadow transform hover:scale-105 transition-transform duration-300">
-            <h3 class="text-2xl font-semibold text-gray-800">Development</h3>
-            <p class="text-gray-700 mt-2">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet, corporis earum eaque animi temporibus ratione quasi! Similique quos quo cum consequuntur</p>
+            <h3 class="text-2xl font-semibold text-gray-800">Web Scraping</h3>
+            <p class="text-gray-700 mt-2">I've developed a passion for web scraping, since there are sites that don't offer public API; It gives me a challenge to try to scrape the metadata myself.</p>
           </div>
 
           <div class="p-6 bg-gray-100 rounded-lg shadow transform hover:scale-105 transition-transform duration-300 ">
-            <h3 class="text-2xl font-semibold text-gray-800">Design</h3>
-            <p class="text-gray-700 mt-2">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet, corporis earum eaque animi temporibus ratione quasi! Similique quos quo cum consequuntur</p>
+            <h3 class="text-2xl font-semibold text-gray-800">Automation</h3>
+            <p class="text-gray-700 mt-2">I've developed a passion for bot automation, its kind of tiring to always redo a load of actions so why not let a bot do it?</p>
           </div>
 
           <div class="p-6 bg-gray-100 rounded-lg shadow transform hover:scale-105 transition-transform duration-300">
             <h3 class="text-2xl font-semibold text-gray-800">Langauges</h3>
-            <p class="text-gray-700 mt-2">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet, corporis earum eaque animi temporibus ratione quasi! Similique quos quo cum consequuntur</p>
+            <p class="text-gray-700 mt-2">My current languages that I have knowledge of: Python, JS, HTML, CSS, Java</p>
           </div>
 
           <div class="p-6 bg-gray-100 rounded-lg shadow transform hover:scale-105 transition-transform duration-300">
